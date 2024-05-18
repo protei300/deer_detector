@@ -1,0 +1,5 @@
+onnxruntime
+pyqt5-tools
+opencv-contrib-python
+pyinstaller==5.13.2
+matplotlib
